@@ -1,4 +1,0 @@
-com\receivepayment\pi\validation\PIValidator.class
-com\receivepayment\api\EurekaClientApplication.class
-com\receivepayment\api\PIOnboardingService.class
-com\receivepayment\api\ServiceInstanceRestController.class
